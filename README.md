@@ -28,18 +28,17 @@
 ### 📱 Mobile Frameworks
 <img align="center" alt="FLUTTER" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-</br>
 
 ### 🎨🎨Designer
 
-<div style="display: inline_block"> </br>
+<div style="display: inline_block">
 <img align="center" alt="html5" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
 <img align="center" alt="CSS3" src="https://aleen42.github.io/badges/src/premiere.svg"/>
 <img align="center" alt="C#" src="https://aleen42.github.io/badges/src/illustrator.svg"/>
 
 </div>
 
- </br>
+</br>
 The code is the language that transcends borders and creates solutions
 
 #### ☎️ contacts
